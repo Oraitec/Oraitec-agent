@@ -24,13 +24,6 @@ We follow a **feature → dev → main** workflow:
   * Feature branches, e.g. `feature/hrv-core`, `feature/app-ui`
   * Created from `dev`, merged back via PR
 
-* **`hotfix/*`**
-
-  * Emergency fixes based on `main`
-  * Must also be merged back into `dev`
-
----
-
 ## 🛠 Development Workflow
 
 1. **Create a branch**
