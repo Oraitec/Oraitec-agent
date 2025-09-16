@@ -75,6 +75,7 @@ We adopt a **feature → dev → main** workflow:
 
   * Per-feature branches (e.g., `feature/hrv-core`, `feature/app-ui`).
   * Always branched from `dev`, merged back via PR.
+<img width="1979" height="1180" alt="output" src="https://github.com/user-attachments/assets/f82c26be-33d4-42ad-94f4-2f5b04c6d07c" />
 
 ---
 
