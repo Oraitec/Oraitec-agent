@@ -57,7 +57,7 @@ Oraitec-agent/
 ```
 ---
 
-## 🌱 Branching Strategy
+## ⛓ Branching Strategy
 
 We adopt a **feature → dev → main** workflow:
 
