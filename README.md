@@ -52,8 +52,7 @@ Oraitec-agent/
 │
 ├── LICENSE
 ├── README.md
-├── CONTRIBUTING.md
-└── CODE_OF_CONDUCT.md
+└── CONTRIBUTING.md
 ```
 ---
 
